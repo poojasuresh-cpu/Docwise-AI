@@ -1,0 +1,1 @@
+import pandas as pd # Load doctor data doctor_df = pd.read_csv("doctor_recommendation_system/data/doctor_profiles.csv") def get_doctors_by_specialist(specialist): doctors = doctor_df[doctor_df['Specialist'].str.lower() == specialist.lower()] return doctors
