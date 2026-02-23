@@ -1,1 +1,1 @@
-# Docwise-AI
+Developed a software application that analyzes patient medical records and predicts potential health risks using machine learning. Leveraged Python, Scikit-learn, and Pandas to process historical medical data, enabling more informed clinical decision-making. This project demonstrates practical applications of AI in healthcare to support doctors with predictive insights.
